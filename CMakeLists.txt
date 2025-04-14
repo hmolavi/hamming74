@@ -2,7 +2,7 @@
 
 idf_component_register(
                     SRCS 
-                        "hamming_code.c"
+                        "hamming.c"
                     INCLUDE_DIRS 
                         "include"
                     )
