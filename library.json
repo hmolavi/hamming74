@@ -1,0 +1,22 @@
+{
+    "name": "Hamming74",
+    "version": "1.0.0",
+    "description": "A pure C library for Hamming(7,4) encoding and decoding.",
+    "keywords": "hamming, error correction, ecc, encoding, decoding, pure c",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/hmolavi/hamming74.git"
+    },
+    "authors": [
+      {
+        "name": "Hossein Molavi",
+        "email": "hmolavi@uwaterloo.ca",
+        "url": "https://hmolavi.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*",
+    "headers": ["hamming.h"]
+  }
+  
