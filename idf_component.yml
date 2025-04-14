@@ -1,5 +1,5 @@
 ## IDF Component Manager Manifest File
-version: "1.0.0"
+version: "1.0.1"
 description: A pure C library for Hamming encoding and decoding, compatible with ESP-IDF.
 url: "https://github.com/hmolavi/hamming74.git"
 files:

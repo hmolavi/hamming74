@@ -1,6 +1,6 @@
 {
     "name": "Hamming74",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A pure C library for Hamming(7,4) encoding and decoding.",
     "keywords": "hamming, error correction, ecc, encoding, decoding, pure c",
     "repository": {
